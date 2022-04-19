@@ -8,4 +8,4 @@ Sources:
   4. [Linux Command Line](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview)
 
 Application:
-![Pushing README.md to GitHub from Bash Terminal](Command line screenshot.png)
+![Pushing README.md to GitHub from Bash Terminal](https://github.com/dsmith15/CPE322-D6/blob/main/Lab%201-2/Command%20line%20screenshot.PNG)
